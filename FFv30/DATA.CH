@@ -1,0 +1,6 @@
+#define MAIN            ".DBF"
+#define MAIN_INDEX      ".NTX"
+#define USER            ".USR"
+#define USER_INDEX      ".USX"
+#define MAKEFILE        ".MAK"
+#define INIFILE         ".INI"
